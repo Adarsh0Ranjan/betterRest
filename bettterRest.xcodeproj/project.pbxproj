@@ -11,6 +11,7 @@
 		41A8CF5128851545008F732E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41A8CF5028851545008F732E /* ContentView.swift */; };
 		41A8CF5328851547008F732E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 41A8CF5228851547008F732E /* Assets.xcassets */; };
 		41A8CF5628851547008F732E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 41A8CF5528851547008F732E /* Preview Assets.xcassets */; };
+		41A8CF6128851B3D008F732E /* sleepCalculatttor.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 41A8CF6028851B3D008F732E /* sleepCalculatttor.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		41A8CF5028851545008F732E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		41A8CF5228851547008F732E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		41A8CF5528851547008F732E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		41A8CF6028851B3D008F732E /* sleepCalculatttor.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = sleepCalculatttor.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				41A8CF4E28851545008F732E /* bettterRestApp.swift */,
 				41A8CF5028851545008F732E /* ContentView.swift */,
+				41A8CF6028851B3D008F732E /* sleepCalculatttor.mlmodel */,
 				41A8CF5228851547008F732E /* Assets.xcassets */,
 				41A8CF5428851547008F732E /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				41A8CF6128851B3D008F732E /* sleepCalculatttor.mlmodel in Sources */,
 				41A8CF5128851545008F732E /* ContentView.swift in Sources */,
 				41A8CF4F28851545008F732E /* bettterRestApp.swift in Sources */,
 			);
